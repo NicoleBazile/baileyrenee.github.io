@@ -1,1 +1,23 @@
 
+body{
+  background: #228B22;
+  justify-content: center;
+}
+.quality{
+  color: orange;
+  margin:10px;
+}
+#me{
+  color: gold;
+  font-size: 35px;
+}
+.bio{
+  border: 5px solid purple;   
+}
+.section{
+ 
+}
+.quote{
+  
+
+}
